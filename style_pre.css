@@ -1,0 +1,37 @@
+/* 変更する部分 */
+/* body */
+body { color: 7d2040 }
+body { background-color: #ffffff }
+body { font-size: 15 }
+/*  ヘッダー */
+#header h1 { font-size: 40px; }
+#header h1 a { color: #ffacac; }
+#header #pr p { font-size: 11px }
+#header #pr p { color: #9b9670; }
+/* メニュー */
+#menu li a { color: #ffffff; }
+#menu li a { background: #8b5b96; }
+#menu li a { border-radius: 0px 0px 0px 0px; }
+#menu li a:hover { background: #525d96; }
+#menu li a:hover { color: #fff; }
+#menu li a.active { background: #1f8c95; }
+#menu li a.active { color: #ffffff; }
+/* サブメニュー */
+#sub li { background: #efefe; }
+#sub h3 { color: #fff; }
+#sub h3 { background: #115796; }
+#sub li a { color: #292929; }
+#sub li a:hover { border-left: 5px solid #115796; }
+#sub li a:hover { background: }
+/* 見出し1 */
+#main h2 { font-size: 16px; }
+#main h2 { color: #292929; }
+#main h2 { border-left: 5px solid #0089a1; }
+#main h2 { border-bottom: 1px dotted #999; }
+/* 見出し2 */
+#main h3 { font-size: 14px; }
+#main h3 { color: #292929; }
+#main h3 { border-left: 5px solid #0089a1; }
+#main h3 { border-bottom: 1px dotted #999; }
+/* 本文 */
+#main a { color: #0089a1; }
