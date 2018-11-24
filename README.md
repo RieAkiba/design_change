@@ -9,4 +9,5 @@
 ## 工夫点
  - [js.color](http://jscolor.com/)を使用
  - [デザインテンプレート](http://www.coolwebwindow.com/)を使用
- - 非同期通信にJavaScriptを使用
+ - JavaScriptを使用して非同期通信することで、ページ全体をリロードせずにインラインフレーム内だけリロードするようにした点
+ - 編集したい場所ごとにフォームをタブでわけた点
