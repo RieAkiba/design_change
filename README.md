@@ -11,3 +11,7 @@
  - [デザインテンプレート](http://www.coolwebwindow.com/)を使用
  - JavaScriptを使用して非同期通信することで、ページ全体をリロードせずにインラインフレーム内だけリロードするようにした点
  - 編集したい場所ごとにフォームをタブでわけた点
+ 
+ ## 参照
+ edit_style.php内のイベントハンドラの登録は以下を参照した
+ - [https://qiita.com/sirone/items/412b2a171dccb11e1bb6](https://qiita.com/sirone/items/412b2a171dccb11e1bb6)
